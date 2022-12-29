@@ -18,7 +18,7 @@ public class HomeController {
 	@Autowired
 	HomeService hs;
 	
-	//this is Controller
+
 	
 	@RequestMapping("/")
 	public String prelogin()
